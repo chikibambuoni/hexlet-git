@@ -1,1 +1,2 @@
 Hackell Curry
+Linus Torvalds
